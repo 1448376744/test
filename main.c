@@ -3,5 +3,5 @@
 int main()
 {
 	printf("success");	
-	return 0;	f
+	return 0;	
 }
